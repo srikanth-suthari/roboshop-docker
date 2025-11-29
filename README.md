@@ -1,2 +1,2 @@
 # roboshop-docker
-RoboShop project with Docker
+RoboShop project implementation in Docker
