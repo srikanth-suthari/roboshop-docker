@@ -1,4 +1,5 @@
 FROM nginx
+# Removing and copying all the required config files
 RUN rm -rf /usr/share/nginx/html/index.html
 RUN rm -rf /etc/nginx/nginx.conf
 RUN rm -rf /etc/nginx/conf.d/default.conf
